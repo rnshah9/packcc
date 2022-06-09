@@ -1,6 +1,5 @@
-project: rnshah9/packcc
+project: packcc
 target: packcc
-tests: null
 
 cmds:
   - cmd: /repo/build/gcc/release/bin/packcc @@
