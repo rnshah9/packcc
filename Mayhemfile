@@ -4,4 +4,4 @@ testsuite:
   - file://examples/calc.peg
 
 cmds:
-  - cmd: /repo/build/gcc/release/bin/packcc @@
+  - cmd: /packcc @@
